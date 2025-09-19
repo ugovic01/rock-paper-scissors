@@ -71,3 +71,4 @@ function playGame() {
 
 playGame();
 
+console.log("Second commit test!");
